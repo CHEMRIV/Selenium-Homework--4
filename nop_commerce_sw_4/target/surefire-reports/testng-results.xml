@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="64" started-at="2022-04-30T20:55:45 BST" finished-at="2022-04-30T20:55:46 BST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="64" started-at="2022-04-30T20:55:45 BST" finished-at="2022-04-30T20:55:46 BST">
+      <class name="com.nopcommerce.demo.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="17" started-at="2022-04-30T20:55:46 BST" finished-at="2022-04-30T20:55:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.nopcommerce.demo.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
